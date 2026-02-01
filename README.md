@@ -10,7 +10,9 @@ A local Streamlit app that:
 
 1) Create a `.env` file next to `app.py` (do NOT commit it):
 
-GEMINI_API_KEY / OPENAI_API_KEY=your_key_here
+```text
+GEMINI_API_KEY=your_key_here
+
 
 
 2) Install dependencies:
