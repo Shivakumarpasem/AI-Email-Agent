@@ -1,0 +1,22 @@
+# secrets
+.env
+
+# local data
+saved_resumes/
+outreach_log.csv
+outreach_log.xlsx
+
+# python junk
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
+venv/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# streamlit
+.streamlit/
