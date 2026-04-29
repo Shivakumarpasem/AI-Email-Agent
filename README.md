@@ -6,6 +6,10 @@ A local Streamlit app that:
 - Generates a cold email and a LinkedIn connection note
 - Logs outreach to a CSV and exports to Excel
 
+## Screenshots
+
+![Resume Agent](Assets/Email_agent1.png)
+
 ## Setup
 
 1) Create a `.env` file next to `app.py` (do NOT commit it):
@@ -32,9 +36,3 @@ run_app.bat
 ## Notes
 - Do not commit `.env`, `saved_resumes/`, or your outreach logs.
 - The app is intended to run locally so file links work.
-
-
-
-## Screenshots
-
-![Resume Agent](Assets/Email_agent1.png)
