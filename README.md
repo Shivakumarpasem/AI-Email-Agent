@@ -32,3 +32,9 @@ run_app.bat
 ## Notes
 - Do not commit `.env`, `saved_resumes/`, or your outreach logs.
 - The app is intended to run locally so file links work.
+
+
+
+## Screenshots
+
+![Resume Agent](assets/Email_agent1.png)
