@@ -37,4 +37,4 @@ run_app.bat
 
 ## Screenshots
 
-![Resume Agent](assets/Email_agent1.png)
+![Resume Agent](Assets/Email_agent1.png)
